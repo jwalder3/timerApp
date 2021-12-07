@@ -411,6 +411,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"timerApp WatchKit Extension/Preview Content\"";
+				DEVELOPMENT_TEAM = 4L4A57D3AY;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "timerApp WatchKit Extension/Info.plist";
@@ -442,6 +443,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"timerApp WatchKit Extension/Preview Content\"";
+				DEVELOPMENT_TEAM = 4L4A57D3AY;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "timerApp WatchKit Extension/Info.plist";
@@ -474,6 +476,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4L4A57D3AY;
 				GENERATE_INFOPLIST_FILE = YES;
 				IBSC_MODULE = timerApp_WatchKit_Extension;
 				INFOPLIST_KEY_CFBundleDisplayName = "timerApp WatchKit App";
@@ -498,6 +501,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4L4A57D3AY;
 				GENERATE_INFOPLIST_FILE = YES;
 				IBSC_MODULE = timerApp_WatchKit_Extension;
 				INFOPLIST_KEY_CFBundleDisplayName = "timerApp WatchKit App";
@@ -519,6 +523,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4L4A57D3AY;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = jwalder3.timerApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -531,6 +536,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4L4A57D3AY;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = jwalder3.timerApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
